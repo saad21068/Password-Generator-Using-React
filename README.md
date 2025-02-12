@@ -12,7 +12,7 @@ A simple and stylish password generator built using React and Tailwind CSS.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/password-generator.git
+   git clone https://github.com/saad21068/Password-Generator-Using-React.git
    cd password-generator
    ```
 
